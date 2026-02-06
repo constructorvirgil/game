@@ -1,0 +1,7 @@
+﻿[workspace]
+members = [
+  "game-core",
+  "server",
+  "tauri-app/src-tauri"
+]
+resolver = "2"
